@@ -1,11 +1,11 @@
 {
     "productos": [
-        {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "nombre": "Trooper taza",
-            "precio": "$60.00",
-            "id": 1
-        }
+       {
+      "id": 1,
+      "nombre": "Baby Yoda",
+      "precio": 500,
+      "imagen": "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/3140794.jpg"
+    }
        
     ]
 }
